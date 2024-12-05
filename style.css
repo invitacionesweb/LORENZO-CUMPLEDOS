@@ -1,5 +1,5 @@
 :root {
-    --color-principal:#FFFFFF;
+    --color-principal:S#FFFCF3;
     --color-secundario:#F37C1C;
     --color-terciario:#F99E1B;
     --font-principal:'Schoolbell', cursive;
@@ -202,7 +202,7 @@ audio::-webkit-media-controls-current-time-display {
  }
 .countdown {
     background-color: var(--color-principal);
-    color: black;
+    color:var(--color-secundario);
     padding: 16px 0 0 0;
     text-align: center;
     height: 10vh;
