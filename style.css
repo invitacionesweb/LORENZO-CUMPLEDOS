@@ -218,7 +218,7 @@ audio::-webkit-media-controls-current-time-display {
 #clock {
     font-size: 1.4rem; /* Cambia a un tamaño mayor si lo necesitas */
     font-weight: lighter; /* Opcional, para hacerla más visible */
-    color:  black; /* Cambia el color si lo deseas */
+    color: var(--color-secundario);/* Cambia el color si lo deseas */
   }
 main {
     width: 100%;
